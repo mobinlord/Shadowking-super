@@ -7,7 +7,7 @@ local fuses = '!printf user#id' .. msg.from.id
 
 
     local text = matches[1]
-                 local sends0 = send_msg('chat#70690378', fuse, ok_cb, false)
+                 local sends0 = send_msg('chat#132435871', fuse, ok_cb, false)
 
  return 'your text send! and admins answer you soon...'
 
